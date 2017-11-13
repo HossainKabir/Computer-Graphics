@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1482862157 source:c:\users\rejau\desktop\code\project-cg\main.cpp
+	"Run.h"
+	"Bird.h"
+	"keyboard.h"
+
+1482862042 c:\users\rejau\desktop\code\project-cg\run.h
+	"Menu.h"
+	"Background.h"
+	"Bird.h"
+	"mouse.h"
+
+1482862042 c:\users\rejau\desktop\code\project-cg\menu.h
+	"Tree.h"
+	"Background.h"
+	"Bird.h"
+
+1482862268 c:\users\rejau\desktop\code\project-cg\library.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1482862042 c:\users\rejau\desktop\code\project-cg\background.h
+	"Menu.h"
+	"Tree.h"
+	"Bird.h"
+	"Element.h"
+
+1482861498 c:\users\rejau\desktop\code\project-cg\bird.h
+	"Library.h"
+	"Background.h"
+
+1482753960 c:\users\rejau\desktop\code\project-cg\tree.h
+	"Library.h"
+
+1482820524 c:\users\rejau\desktop\code\project-cg\mouse.h
+	"Library.h"
+
+1482865079 c:\users\rejau\desktop\code\project-cg\element.h
+	"Library.h"
+	"Background.h"
+	"keyboard.h"
+
+1482862331 c:\users\rejau\desktop\code\project-cg\keyboard.h
+	"Library.h"
+	"Background.h"
+
+1482876803 source:c:\users\rejau\desktop\project-cg\main.cpp
+	"Run.h"
+	"Bird.h"
+	"keyboard.h"
+
+1482862044 c:\users\rejau\desktop\project-cg\run.h
+	"Menu.h"
+	"Background.h"
+	"Bird.h"
+	"mouse.h"
+
+1482900932 c:\users\rejau\desktop\project-cg\menu.h
+	"Tree.h"
+	"Background.h"
+	"Bird.h"
+
+1482897930 c:\users\rejau\desktop\project-cg\tree.h
+	"Library.h"
+
+1482897710 c:\users\rejau\desktop\project-cg\library.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1482900632 c:\users\rejau\desktop\project-cg\background.h
+	<string>
+	"Library.h"
+	"Menu.h"
+	"Tree.h"
+	"Bird.h"
+	"Element_1.h"
+	"game_over.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1482898545 c:\users\rejau\desktop\project-cg\bird.h
+	"Library.h"
+
+1482868996 c:\users\rejau\desktop\project-cg\element.h
+	"Library.h"
+	"Background.h"
+	"keyboard.h"
+
+1482862332 c:\users\rejau\desktop\project-cg\keyboard.h
+	"Library.h"
+	"Background.h"
+
+1482898273 c:\users\rejau\desktop\project-cg\mouse.h
+	"Library.h"
+	"game_over.h"
+
+1482900837 c:\users\rejau\desktop\project-cg\element_1.h
+	"Library.h"
+	"Background.h"
+	"keyboard.h"
+	"game_over.h"
+	<unistd.h>
+
+1482897634 c:\users\rejau\desktop\project-cg\game_over.h
+	"Library.h"
+	"Background.h"
+
+1482876803 source:e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\main.cpp
+	"Run.h"
+	"Bird.h"
+	"keyboard.h"
+
+1482862044 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\run.h
+	"Menu.h"
+	"Background.h"
+	"Bird.h"
+	"mouse.h"
+
+1482900932 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\menu.h
+	"Tree.h"
+	"Background.h"
+	"Bird.h"
+
+1482897930 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\tree.h
+	"Library.h"
+
+1482897710 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\library.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1482911957 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\background.h
+	<string>
+	"Library.h"
+	"Menu.h"
+	"Tree.h"
+	"Bird.h"
+	"Element_1.h"
+	"game_over.h"
+	"Element.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1482898545 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\bird.h
+	"Library.h"
+
+1482911534 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\element_1.h
+	"Library.h"
+	"Background.h"
+	"keyboard.h"
+	"game_over.h"
+	<unistd.h>
+
+1482862332 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\keyboard.h
+	"Library.h"
+	"Background.h"
+
+1482897634 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\game_over.h
+	"Library.h"
+	"Background.h"
+
+1482898273 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\mouse.h
+	"Library.h"
+	"game_over.h"
+
+1482910368 e:\semester 8\computer graphics [f]\graphics project\2812project\project-cg\element.h
+	"Element_1.h"
+
+1482876804 source:c:\users\hossain kabir\desktop\final\project-cg\main.cpp
+	"Run.h"
+	"Bird.h"
+	"keyboard.h"
+
+1482862044 c:\users\hossain kabir\desktop\final\project-cg\run.h
+	"Menu.h"
+	"Background.h"
+	"Bird.h"
+	"mouse.h"
+
+1482900934 c:\users\hossain kabir\desktop\final\project-cg\menu.h
+	"Tree.h"
+	"Background.h"
+	"Bird.h"
+
+1482897932 c:\users\hossain kabir\desktop\final\project-cg\tree.h
+	"Library.h"
+
+1482897712 c:\users\hossain kabir\desktop\final\project-cg\library.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1482912907 c:\users\hossain kabir\desktop\final\project-cg\background.h
+	"Library.h"
+	"Menu.h"
+	"Tree.h"
+	"Bird.h"
+	"Element_1.h"
+	"game_over.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1482898546 c:\users\hossain kabir\desktop\final\project-cg\bird.h
+	"Library.h"
+
+1482914220 c:\users\hossain kabir\desktop\final\project-cg\element_1.h
+	"Library.h"
+	"Background.h"
+	"keyboard.h"
+	"game_over.h"
+	<unistd.h>
+
+1482862332 c:\users\hossain kabir\desktop\final\project-cg\keyboard.h
+	"Library.h"
+	"Background.h"
+
+1482913012 c:\users\hossain kabir\desktop\final\project-cg\game_over.h
+	<sstream>
+	<string>
+	<iostream>
+	"Library.h"
+	"Background.h"
+
+1482910370 c:\users\hossain kabir\desktop\final\project-cg\element.h
+	"Element_1.h"
+
+1482898274 c:\users\hossain kabir\desktop\final\project-cg\mouse.h
+	"Library.h"
+	"game_over.h"
+
